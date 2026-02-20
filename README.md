@@ -39,6 +39,7 @@ DEBUG=False
 INSTAGRAM_USER_ACCESS_TOKEN=mytoken
 INSTAGRAM_USER_ID=myuserid
 ```
+You can generate an Instagram token at [Meta for Developers](https://developers.facebook.com/).
 
 API доступен по адресу — ```http://localhost:8300/```
 
